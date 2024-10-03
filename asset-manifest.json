@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github.io/Catalog/static/css/main.f9e813c3.css",
+    "main.js": "/github.io/Catalog/static/js/main.3ef8c7c0.js",
+    "static/js/453.25b1bc4e.chunk.js": "/github.io/Catalog/static/js/453.25b1bc4e.chunk.js",
+    "static/media/watch.jpg": "/github.io/Catalog/static/media/watch.2f65a28b5652e6a5d0a2.jpg",
+    "static/media/tv.jpg": "/github.io/Catalog/static/media/tv.eb24bece463c0f8d3779.jpg",
+    "static/media/shirt.jpg": "/github.io/Catalog/static/media/shirt.46e730778577ec60f968.jpg",
+    "static/media/belt.jpg": "/github.io/Catalog/static/media/belt.4c18e9a98d6b695ef18f.jpg",
+    "static/media/washing_mechile.jpg": "/github.io/Catalog/static/media/washing_mechile.4de1b5b1539023fae8a1.jpg",
+    "static/media/fridge.jpg": "/github.io/Catalog/static/media/fridge.13f4b4fc1863720a4aad.jpg",
+    "static/media/shooes.jpg": "/github.io/Catalog/static/media/shooes.436ee8f31e8bb9a77c23.jpg",
+    "static/media/sofa.jpg": "/github.io/Catalog/static/media/sofa.1e8c2bd2f818342a204c.jpg",
+    "static/media/pant.jpg": "/github.io/Catalog/static/media/pant.47f2eee536ea8ba26768.jpg",
+    "index.html": "/github.io/Catalog/index.html",
+    "main.f9e813c3.css.map": "/github.io/Catalog/static/css/main.f9e813c3.css.map",
+    "main.3ef8c7c0.js.map": "/github.io/Catalog/static/js/main.3ef8c7c0.js.map",
+    "453.25b1bc4e.chunk.js.map": "/github.io/Catalog/static/js/453.25b1bc4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9e813c3.css",
+    "static/js/main.3ef8c7c0.js"
+  ]
+}
